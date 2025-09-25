@@ -1,4 +1,4 @@
-## Student Result Portal (Mini)
+## Student Result Portal 
 
 A lightweight, single-page web app to add students, enter subject-wise marks, and automatically compute total, percentage, and grade. Data is saved to your browser via localStorage — no backend required.
 
@@ -75,5 +75,6 @@ Each student is stored like this in `localStorage` under the key `srp_students_v
 ### License
 
 MIT
+
 
 
